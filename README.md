@@ -27,4 +27,4 @@ There is also an extra route that is not related to the 1% better AI agent, whic
 
 However, in order to use less tokens, instead of sending all the images in every LLM call, this system only sends the image once, where it saves a detailed description of it.
 
-This description of the image is added to the context of the conversation, so you can still talk about that image event though it is not actually beeing sent again to the LLM, only its description.
+This description of the image is added to the context of the conversation, so you can still talk about that image even though it is not actually beeing sent again to the LLM, only its description.
